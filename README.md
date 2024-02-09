@@ -10,5 +10,6 @@ I carried out processes like:
 - Data Cleaning with Pandas
 - Data Visualization using Matplotlib and Seaborn
 - Data Analysis
+- Market Basket Analysis
 
 Lastly, I presented a strategic recommendation that is supported by data. My analysis and recommendations are documented in this [notebook](https://github.com/eyitayo22/Retail-Analytics-Python/blob/main/Retail%20Analytics.ipynb).
