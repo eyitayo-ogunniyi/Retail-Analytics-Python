@@ -1,4 +1,4 @@
-# Retail Analytics in Python
+# Retail Analytics with Python
 
 In this project, I analysed Chips transactional and customer data to understand the current purchasing trends and behaviors. 
 The insights from this analysis will feed into the supermarket’s strategic plan for the chip category in the next half year.
